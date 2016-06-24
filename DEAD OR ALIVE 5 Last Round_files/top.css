@@ -394,7 +394,7 @@ background-image:url("../img/characters/characters_bg.jpg");
 background-position:center top;
 background-repeat:no-repeat;
 overflow:hidden;
-background-color:#000;
+background-color:#8dcbeb;
 }
 
 #characters h2{
@@ -791,7 +791,7 @@ background-image:url("../img/stages/stages_bg.jpg");
 background-position:center top;
 background-repeat:no-repeat;
 overflow:hidden;
-background-color:#000;
+background-color:#8dcbeb;
 }
 
 #stages h2{
@@ -960,7 +960,7 @@ background-image:url("../img/movies/movies_bg.jpg");
 background-repeat:repeat-x;
 background-position:center top;
 padding:130px 0 80px;
-background-color:#000;
+background-color:#8dcbeb;
 }
 
 #movies h2{
@@ -1017,7 +1017,7 @@ left:0px;
 text-align:center;
 color:#fff;
 width:100%;
-background-color:#000;
+background-color:#8dcbeb;
 background-color:rgba(0,0,0,0.5);
 
 font-size:15px;
