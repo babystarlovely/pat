@@ -55,6 +55,7 @@ $(function(){
 		setMoveList('#characters h2 img',{'opacity':1,left: '0px'},{'opacity':0, left :'-100px'}, '200' , '10' , 'true');
 		setMoveList('#movies h2 img',{'opacity':1,left: '0px'},{'opacity':0, left :'-100px'}, '200' , '10' , 'true');
 		setMoveList('#stages h2 img',{'opacity':1,left: '0px'},{'opacity':0, left :'-100px'}, '200' , '10' , 'true');
+		setMoveList('#contact h2 img',{'opacity':1,left: '0px'},{'opacity':0, left :'-100px'}, '200' , '10' , 'true');
 		
 		setMoveList('#slider_features',{'opacity':1},{'opacity':0}, '200' , '300' , 'false');
 		setMoveList('#exp_features',{'opacity':1},{'opacity':0}, '200' , '400' , 'false');

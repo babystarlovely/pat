@@ -114,11 +114,11 @@ left:30px;
 
 #menu li.menu_characters{
 display:block;
-width:120px;
-height:11px;
+width:133px;
+height:15px;
 position:absolute;
 top:17px;
-left:375px;
+left:289px;
 }
 
 #menu li.menu_characters a{
@@ -138,11 +138,11 @@ left:45px;
 
 #menu li.menu_stages{
 display:block;
-width:72px;
-height:11px;
+width:132px;
+height:15px;
 position:absolute;
 top:17px;
-left:530px;
+left:418px;
 }
 
 #menu li.menu_stages a{
@@ -162,11 +162,11 @@ left:20px;
 
 #menu li.menu_movies{
 display:block;
-width:70px;
-height:11px;
+width:131px;
+height:15px;
 position:absolute;
 top:17px;
-left:640px;
+left:553px;
 }
 
 #menu li.menu_movies a{
@@ -183,6 +183,33 @@ position:absolute;
 bottom:-12px;
 left:18px;
 }
+
+
+#menu li.menu_contact{
+display:block;
+width:51px;
+height:15px;
+position:absolute;
+top:17px;
+left:693px;
+}
+
+#menu li.menu_contact a{
+display:block;
+width:100%;
+height:100%;
+background-image:url("img/common/menu_contact.png");
+background-position:center top;
+}
+
+#menu li.menu_contact .icon{
+display:block;
+position:absolute;
+bottom:-12px;
+left:18px;
+}
+
+
 
 
 #menu li a:hover{
